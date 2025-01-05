@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swasthik-Prabhu
 - 👀 I’m interested in ...Coding,Playing video games,travelling
 - 🌱 I’m currently learning ...B E in Computer Science
-- 💞️ I’m looking to collaborate on ...python related projects
+- 💞️ I’m looking to collaborate on ...Python, Web and ML related projects
 - 📫 How to reach me ... through mail
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
