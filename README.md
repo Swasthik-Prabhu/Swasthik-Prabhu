@@ -42,6 +42,8 @@
 </div>
 
 
+<img src="https://raw.githubusercontent.com/Swasthik-Prabhu/Swasthik-Prabhu/output/snake.svg" alt="Snake animation" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Swasthik-Prabhu&icon=0&color=1)](https://visitcount.itsvg.in)
