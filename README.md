@@ -8,8 +8,8 @@
 
 - 👀 I’m interested in ...Coding,Playing video games,travelling
 - 🌱 I’m currently learning ...B E in Computer Science
-- 💞️ I’m looking to collaborate on ...Python, Web and ML related projects
-- 📫 How to reach me ... through mail
+- 💞️ I’m looking to collaborate on ...Python, DevOps,  Web and ML related projects
+- 📫 How to reach me ... swasthikp03@gmail.com
 - Linkedin : ... https://www.linkedin.com/in/swasthik-r-prabhu-644607258/
 
 
