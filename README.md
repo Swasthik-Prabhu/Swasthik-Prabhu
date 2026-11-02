@@ -7,8 +7,9 @@
 
 
 - 👀 I’m interested in ...Coding,Playing video games,travelling
-- 🌱 I’m currently learning ...B E in Computer Science
-- 💞️ I’m looking to collaborate on ...Python, DevOps,  Web and ML related projects
+- 🌱 I have completed my B.E. in Computer Science
+- 💼 I work as a software developer at Deloitte
+- 💞️ I’m looking to collaborate on ...Python, JavaScript, DevOps,  Web and ML related projects
 - 📫 How to reach me ... swasthikp03@gmail.com
 - Linkedin : ... https://www.linkedin.com/in/swasthik-r-prabhu-644607258/
 
